@@ -1,6 +1,39 @@
 .header {
   background-color: #1f2937;
 }
-.main-title {
+.footer {
   background-color: #1f2937;
+  color: #f9faf8;
+}
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+h1 {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 1000;
+}
+.header-links,
+.main-title p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+button {
+  font-weight: 500;
+  background-color: #3882f6;
+  color: #e5e7eb;
+}
+h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #1f2937;
+}
+.quote {
+  background-color: #e5e7eb;
+}
+.quote p {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
 }
